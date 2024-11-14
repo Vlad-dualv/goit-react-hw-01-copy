@@ -1,0 +1,26 @@
+.friendItem {
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+}
+
+.text {
+  font-size: 36px;
+}
+
+.stat {
+  font-size: 24px;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}

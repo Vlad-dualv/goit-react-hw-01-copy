@@ -1,3 +1,5 @@
+import css from './FriendListItem.module.css';
+
 export default function FriendListItem({ friend: { avatar, name, isOnline } }) {
   return (
     <div>
